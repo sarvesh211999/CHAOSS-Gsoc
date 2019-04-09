@@ -42,13 +42,16 @@ Currently Working on it.
 ### Microtask 7:
 
 Pull Request Merged in chaoss/grimoirelab-tutorial
+
 -https://github.com/chaoss/grimoirelab-tutorial/pull/74
 
 ---------------------------------------------
 ### Microtask 8:
 
 Pull Request Merged in chaoss/wg-gmd
+
 -https://github.com/chaoss/wg-gmd/pull/125
+
 -https://github.com/chaoss/wg-gmd/pull/116
 
 
