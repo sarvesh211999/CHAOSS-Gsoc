@@ -68,12 +68,8 @@ Pull Request Merged in chaoss/wg-gmd
 
 -https://github.com/chaoss/wg-gmd/pull/116
 
-
-
-
-
-
-
+---------------------------------------------
+##### Note: Used git-lfs for uploading data source JSON files to GitHub
 ---------------------------------------------
 ---------------------------------------------
 
